@@ -1,5 +1,7 @@
 # LuaObfoscator
 
+Virus total check: https://www.virustotal.com/gui/file/719659f61c84e6208bdf7de8d1e4dfb19614e2c8e9170fb75f789a23f7d8a70c?nocache=1
+
 Project ini open source.
 
 This project is open source.
@@ -23,6 +25,8 @@ Cara menggunakan aplikasi nya
 3. Enter lalu tunggu proses nya hingga selesai
 
 4. selesai, hasilnya bakal ada di folder yang sama dengan file Obfuscator.exe.
+
+Jika tidak mengerti, saya akan membuatkan vidio tutorial nya
 
 --
 ENGLISH
@@ -49,3 +53,5 @@ How to use the application:
 3. Press Enter and wait for the process to complete.
 
 4. Done; the result will be located in the same folder as the Obfuscator.exe file.
+
+If you don't understand, I will make a video tutorial for it.
