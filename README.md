@@ -6,6 +6,10 @@ Project ini open source.
 
 This project is open source.
 
+--
+INDONESIA
+--
+
 Cara membuat api key nya
 
 1. buka website https://luaobfuscator.com/forum/
